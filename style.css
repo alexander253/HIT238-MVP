@@ -1,7 +1,8 @@
 body{
-  background-color: grey;
+  background-image: linear-gradient(to bottom right,#525151, black);
   margin-top: 130px;
   margin-bottom: 130px;
+
 }
 
 .heading {
@@ -10,36 +11,39 @@ body{
   margin-bottom: 50px;
   position: fixed;
   width: 100%;
-  background-color: green;
+  background-color: #1db954;
 
 
 }
 
 .heading h1{
   display: inline-block;
+  color: white;
 }
 
 .content{
   margin-top:30px;
   margin-left: 30px;
   margin-right: 30px;
-  background-color:#EEEEEE;
+  background-color:grey;
   border-style: hidden;
   border-width: 0.5px;
   border-radius: 10px;
   padding: 20px;
+  color:white;
 
 }
 
 
 .nav_menu{
-  background-color: green;
+  background-color: #1db954;
   position: fixed;
   bottom: 0px;
   width: 100%;
   text-align: center;
   border-top: solid;
   border-width: 10px;
+
  }
 
 .nav_menu a{
@@ -50,7 +54,7 @@ body{
   margin-bottom: 5px;
   margin-left: 10px;
   margin-right: 10px;
-  background-color: #4CAF50;
+
 }
 
 
